@@ -1,0 +1,27 @@
+body{
+    background: #181818;
+    color:white;
+    font-family: sans-serif;
+}
+p{
+    text-align: justify;
+}
+
+.drop:hover{
+    background: green;
+    
+}
+
+.wrap{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.items{
+    display: flex;
+    margin:2rem;
+    text-align: center;
+}
