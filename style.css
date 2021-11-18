@@ -29,3 +29,11 @@ p{
     margin:2rem;
     text-align: center;
 }
+
+.footer{
+    display: flex;
+    margin-top: 2rem;
+    align-items: center;
+    justify-content: center;
+    font-style: italic;    
+}
